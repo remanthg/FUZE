@@ -1,5 +1,5 @@
 # FUZE: Digital Asset Infrastructure & Remittance Analytics
-
+*Note on Work-in-Progress Blocks*: You will find active, unpolished code cells exploring regional remittance corridors (Latin America). The raw errors and tracebacks are intentionally left intact as a snapshot of active system debugging and boundary testing
 **Timeline:** Active Work-in-Progress  
 **Stack:** Python, Pandas, NumPy, Matplotlib, Google Colab  
 **Domain:** Decentralized Finance (DeFi), Tokenized Remittances, Digital Asset Infrastructure
@@ -25,5 +25,3 @@ FUZE/
 │
 ├── FUZE_Analysis.ipynb         # Exploratory data modeling and visualization notebook
 └── README.md                   # Infrastructure case study documentation
-
-*Note on Work-in-Progress Blocks*: You will find active, unpolished code cells exploring regional remittance corridors (Latin America). The raw errors and tracebacks are intentionally left intact as a snapshot of active system debugging and boundary testing
